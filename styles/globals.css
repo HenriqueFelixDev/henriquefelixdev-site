@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+.h-90vh {
+  min-height: 90vh;
+}
+
+.h-100vh {
+  min-height: 100vh;
+}
